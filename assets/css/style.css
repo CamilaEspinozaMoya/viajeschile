@@ -30,9 +30,13 @@ h4 {
 
 i{
     color: #ffffff;
-    size: 5x;
+    padding-right: 10px;
 }
 
 footer {
     background-color: aqua;
+}
+
+#contacto{
+    padding-bottom: 100px;
 }
